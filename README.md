@@ -1,3 +1,3 @@
 # latihanweb
 
-project latihan dari frontend.io
+project latihan dari [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty|asc)
